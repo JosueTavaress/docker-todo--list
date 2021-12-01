@@ -1,12 +1,17 @@
 [
   {
-    "id": "2325a91c-4fef-4651-b859-44d1d904f5d2",
-    "description": "Estudar os conteúdos de Docker da Trybe",
+    "id": "da81663e-faad-4b17-8774-180e173410a1",
+    "description": "Resolver o projeto Docker Todo List",
     "check": true
   },
   {
-    "id": "da81663e-faad-4b17-8774-180e173410a1",
-    "description": "Resolver o projeto Docker Todo List",
+    "id": "4c12bcfd-21b5-4ea0-b12e-5db03c190c65",
+    "description": "sdasd",
+    "check": true
+  },
+  {
+    "id": "1751c1bb-99e2-44a8-bd9a-dc4cb707f743",
+    "description": "sdasd",
     "check": false
   }
 ]
